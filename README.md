@@ -1,4 +1,4 @@
-Text can be **blod**, _italic_, ~~strikethrough~~
+Text can be **blod**, _italic_, ~~strikethrough~~,
 
 [Link to git](http://github.com)
 
@@ -27,7 +27,7 @@ int main(void){
 2. This is an ordered list
 
 
-|head1	|head2	 	 |head3	 |
+|head1	|head2		|head3	 |
 |:------|------------|-------|
 |table	|'importance'|		 |
 
