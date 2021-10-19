@@ -1,4 +1,4 @@
-Text can be **blod**, _italic_, ~~strikethrough~~,
+Text can be **blod88, _italic_, ~~strikethrough~
 
 [Link to git](http://github.com)
 
